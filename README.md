@@ -1,45 +1,64 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Booting...;Loading+Glassous+Profile...;AI+Developer+Detected.;Welcome+to+my+GitHub+Lair!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Booting...;Loading+Glassous+Profile...;AI+Developer+Detected.;欢迎来到+Glassous+的+GitHub+领域!)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 Who is this human?
+## 💸 支持作者
 
-Hey, I'm **Glassous** — just a random computer science student who writes code like casting spells.  
-Currently experimenting with **AI stuff**, building **mobile apps**, and occasionally breaking things in production.
-
-> If it works, don’t touch it.  
-> If it doesn’t work, also don’t touch it — just rewrite it.
+我已入驻 **[爱发电](https://afdian.com/@Glassous)** ，  
+如果你觉得这些项目有点意思，欢迎发电支持，  
+能量会直接转化为更强的开发动力（和更少的 bug）。
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 我是谁？
 
-- **[GlesTranslate](https://github.com/Glassous/GlesTranslate)** — AI Translator because copy-pasting into Google Translate was too exhausting  
-- **[GlesTranslateAndroid](https://github.com/Glassous/GlesTranslateAndroid)** — Same thing, but now it fits in your pocket  
-- **[Nexara-Android](https://github.com/Glassous/Nexara-Android)** — A highly customized AI chatbot that may or may not replace human friends  
-- **[qrcode](https://github.com/Glassous/qrcode)** — Scans things. Beep. Boop. Mission accomplished.  
+嗨，我是 **Glassous** —— 一个把写代码当成施法的计算机专业本科生。  
+目前主要在鼓捣 **AI 应用**、**Android 开发**，偶尔也在努力不让服务器爆炸。
+
+> 能跑就别动，不能跑就重写。  
+> —— 一条开发者的生存哲学。
 
 ---
 
-## 📊 Programming Language Usage
+## 🚀 精选项目
+
+- **[AIme Android](https://github.com/Glassous/AIme-Android)**  
+  一款基于 AI 聊天机器人
+
+- **[ShotcutMap](https://github.com/Glassous/ShotcutMap)**  
+  一款快捷键仓库
+
+- **[GlesTranslate](https://github.com/Glassous/GlesTranslate)**  
+  一款 AI 翻译工具
+
+- **[qrcode](https://github.com/Glassous/qrcode)**  
+  网页扫码器
+
+- **[giachdb](https://github.com/Glassous/giachdb)**  
+  原神成就数据库
+
+---
+
+## 📊 编程语言使用情况
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glassous&layout=compact&theme=tokyonight)
 
 ---
 
-## 📅 Activity Calendar
+## 📅 活跃日历
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Glassous&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🛰️ Contact Channel
+## 🛰️ 联系方式
 
-ping: yongyanye614@gmail.com
-reply: usually fast, unless I'm debugging my existence
+ping: **yongyanye614@gmail.com**  
+reply: 一般很快，除非我正在调试自己的人生。
 
 ---
 
-> ⭐ If you enjoy my chaos, drop a star. It powers my compiler.
+> ⭐ 觉得不错就点个 Star 吧。  
+> 它能让我的编译器更快乐，也让我的 Bug 更害怕。
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Glassous)
