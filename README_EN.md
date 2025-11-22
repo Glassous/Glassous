@@ -13,7 +13,7 @@
 
 ## 🌐 Personal Website
 
-🌟 **[glassous.top](https://glassous.top)** - Explore My Digital World  
+🌟 **[glassous.top](https://me.glassous.top)** - Explore My Digital World  
 🎯 Latest projects, tech blogs, and AI experiments are all here!
 
 ---

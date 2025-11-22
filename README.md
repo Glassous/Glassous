@@ -13,7 +13,7 @@
 
 ## 🌐 个人网站
 
-🌟 **[glassous.top](https://glassous.top)** - 探索我的数字世界  
+🌟 **[glassous.top](https://me.glassous.top)** - 探索我的数字世界  
 🎯 最新项目、技术博客、AI 实验都在这里！
 
 ---
