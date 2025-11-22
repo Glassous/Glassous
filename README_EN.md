@@ -13,7 +13,7 @@
 
 ## 🌐 Personal Website
 
-🌟 **[glassous.top](https://me.glassous.top)** - Explore My Digital World  
+🌟 **[me.glassous.top](https://me.glassous.top)** - Explore My Digital World  
 🎯 Latest projects, tech blogs, and AI experiments are all here!
 
 ---
@@ -86,13 +86,13 @@ Currently mainly working on **AI applications**, **Android development**, and **
 ## 🛰️ Contact Information
 
 📧 **yongyanye614@gmail.com**  
-🌐 **[glassous.top](https://glassous.top)**  
+🌐 **[me.glassous.top](https://me.glassous.top)**  
 💬 **Response Speed**: Usually quick, unless I'm debugging my life.
 
 ### 🎯 Find Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yongyanye614@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://glassous.top)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://me.glassous.top)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Glassous)
 
 ---

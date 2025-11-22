@@ -13,7 +13,7 @@
 
 ## 🌐 个人网站
 
-🌟 **[glassous.top](https://me.glassous.top)** - 探索我的数字世界  
+🌟 **[me.glassous.top](https://me.glassous.top)** - 探索我的数字世界  
 🎯 最新项目、技术博客、AI 实验都在这里！
 
 ---
@@ -86,13 +86,13 @@
 ## 🛰️ 联系方式
 
 📧 **yongyanye614@gmail.com**  
-🌐 **[glassous.top](https://glassous.top)**  
+🌐 **[me.glassous.top](https://me.glassous.top)**  
 💬 **回复速度**: 一般很快，除非我正在调试自己的人生。
 
 ### 🎯 找到我
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yongyanye614@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://glassous.top)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://me.glassous.top)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Glassous)
 
 ---
